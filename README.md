@@ -11,7 +11,7 @@ Atualmente, estou aprimorando minhas habilidades em **JavaScript** e **Node.js**
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henrick-Brb&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Henrick-Brb&show_icons=true&theme=dark)
 
 ### 🚀 Tecnologias que uso:
 <p align="left">
