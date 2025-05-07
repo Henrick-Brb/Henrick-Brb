@@ -1,30 +1,25 @@
 # Olá 👋, me chamo Henrick.
 
-💻 Desenvolvedor Web | 🎯 Focado em HTML5, CSS3, JavaScript, Node.Js 
+💻 QA em formação | 🎯 Focado em Testes Manuais, Automação e Garantia de Qualidade
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento web e back-end**. Tenho experiência prática em **HTML5, CSS3 e JavaScript**, desenvolvendo websites responsivos, otimizados para desempenho e acessibilidade.
-Atualmente, estou aprimorando minhas habilidades em **JavaScript** e **Node.js** para me tornar um desenvolvedor. Sou uma pessoa calma, com excelente comunicação e paixão por aprender.
-
-- 🚀 Buscando oportunidades na área de desenvolvimento.
-- 🔥 Conhecimento em **HTML5 | CSS3 | JavaScript**.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em **Quality Assurance**. Atualmente, estou aprimorando minhas habilidades em testes automatizados e boas práticas de QA, estudando ferramentas como **Cypress** e **Insomnia**. Sou uma pessoa calma, com excelente comunicação e paixão por aprender.
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Henrick-Brb&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Henrick-Brb&show_icons=true&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrick-Brb&layout=donut&theme=midnight-purple)
 
 ### 🚀 Tecnologias que uso:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/>     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" alt="Nodemon" width="50" height="50"/>       
-</p>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>    
+  
 ---
 
 ### 🌎 Minhas redes:
