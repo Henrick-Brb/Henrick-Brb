@@ -12,6 +12,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em **Quality A
 
 ### 🚀 Tecnologias que uso:
 
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -19,7 +20,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em **Quality A
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>    
-  
+</p>
+
 ---
 
 ### 🌎 Minhas redes:
